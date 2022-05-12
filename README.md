@@ -1,3 +1,3 @@
 # Hundir_la_Flota
 
-Con solo veinte días conociendo Python, conseguí hacer el juego de Hundir la flota!!
+Tras veinte días aprendiendo y trabajando con Python, desarrollé un código para poder jugar al juego del hundir la flota.
